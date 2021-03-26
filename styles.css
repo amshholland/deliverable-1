@@ -116,19 +116,13 @@ h2 {
     h1, p {
         justify-content: flex-end;
         flex-direction: column;
-        margin-right: 12;
-    }
-    h1 {
-        margin: 0;
-    }
-    p {
-        margin: 0;
+        margin: 0 15px 0 0;
     }
     #truck {
         flex-direction: row;
         flex: 2;
         margin: 50px;
-        width: 45%;
+        width: 40%;
     }
 
 
